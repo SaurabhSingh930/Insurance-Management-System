@@ -1,21 +1,7 @@
-# Insurance Application
+# Insurance managment system
 
-An insurance application for filing benefits when there are accidents.
+A new Flutter project.
 
-# Login
-![alt text](https://github.com/Davies-K/Open-Insurance/blob/main/assets/screenshots/login.jpg?raw=true)
+## Getting Started
 
-# HomeScreen
-![alt text](https://github.com/Davies-K/Open-Insurance/blob/main/assets/screenshots/home.jpg?raw=true)
-
-# Incident Report
-![alt text](https://github.com/Davies-K/Open-Insurance/blob/main/assets/screenshots/incident_report.jpg?raw=true)
-
-# Incident Time
-![alt text](https://github.com/Davies-K/Open-Insurance/blob/main/assets/screenshots/incident_time.jpg?raw=true)
-
-# Incident Location & Evidence
-![alt text](https://github.com/Davies-K/Open-Insurance/blob/main/assets/screenshots/incident_location.jpg?raw=true)
-
-# Get Quote
-![alt text](https://github.com/Davies-K/Open-Insurance/blob/main/assets/screenshots/get_quote.jpg?raw=true)
+FlutterFlow projects are built to run on the Flutter _stable_ release.

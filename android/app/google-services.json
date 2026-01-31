@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "345340167949",
+    "project_id": "medi-connect-mg2vrg",
+    "storage_bucket": "medi-connect-mg2vrg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345340167949:android:807053670d5696bc5dd244",
+        "android_client_info": {
+          "package_name": "com.mycompany.mediconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345340167949-gf72t6mlubd6io4oa0f11tjs3ke57k3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSHh7egw8dcaO7iqxaSztsqI6oKEIZ0w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345340167949-gf72t6mlubd6io4oa0f11tjs3ke57k3h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "345340167949-k14fdiiajo545d70j5kfuqpmvef5a450.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.mediconnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
